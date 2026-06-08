@@ -5,11 +5,14 @@
 /.pnp
 .pnp.js
 .env
+server/node_modules
+task-management-shubham-bihade/node_modules
 
 # testing
 /coverage
 
 # production
+dist
 /build
 
 # misc
